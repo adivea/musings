@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: Who am I
+- title: "Who am I"
   url: "/getting-started/"
   side: left
 
@@ -25,7 +25,7 @@
   - title: "Portfolio"
     url: "/aus/portfolio/"
 
-- title: "Denmark "
+- title: "Denmark"
   url: "/dan/"
   side: left
   dropdown:
