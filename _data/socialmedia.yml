@@ -1,10 +1,10 @@
 - name: GitHub
   url: http://github.com/adivea
   class: icon-github
-  title: Code und mehr...
+  title: "Code and more..."
 
 - name: YouTube
-  url: http://www.youtube.com/FAIMSs
+  url: http://www.youtube.com/FAIMS
   class: icon-youtube
   title: "Videos, mostly from the FAIMS project"
 
